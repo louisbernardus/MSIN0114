@@ -1,4 +1,4 @@
-Customer Retention Prediction in Fast Paced E-Commerce Industry
+Predicting Customer Retention in the E-Commerce Industry in Indonesia: A Machine Learning Approach
 ===================================
 
 This is a repository for customer retention prediction project for completing MSc Business Analytics at UCL. Created by [Louis Bernardus](https://github.com/louisbernardus).
